@@ -1,5 +1,5 @@
 PKG_NAME := pypi-sanic_routing
-URL = https://files.pythonhosted.org/packages/c3/72/e82be1d019e094f6b983bec9fee5ea512e8aaafe97b5346af2ba0e25cd56/sanic-routing-22.3.0.tar.gz
+URL = https://files.pythonhosted.org/packages/c0/a4/0f7be9c81ff3dd4cb389374db29f0f598b940361f7ddcc5c8f38f48f7655/sanic-routing-22.8.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
