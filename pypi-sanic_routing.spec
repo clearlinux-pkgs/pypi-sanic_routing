@@ -4,7 +4,7 @@
 #
 Name     : pypi-sanic_routing
 Version  : 22.8.0
-Release  : 10
+Release  : 11
 URL      : https://files.pythonhosted.org/packages/c0/a4/0f7be9c81ff3dd4cb389374db29f0f598b940361f7ddcc5c8f38f48f7655/sanic-routing-22.8.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/c0/a4/0f7be9c81ff3dd4cb389374db29f0f598b940361f7ddcc5c8f38f48f7655/sanic-routing-22.8.0.tar.gz
 Summary  : Core routing component for Sanic
